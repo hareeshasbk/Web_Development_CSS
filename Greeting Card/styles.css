@@ -48,7 +48,6 @@ h1::after {
     color: white;
     background-color: midnightblue;
     transition: background-color 0.3s ease;
-    3
 }
 
 .card-links a:hover {
